@@ -1,4 +1,4 @@
-Simple application for uploading a picture to the cloud and parse the output of the analysis of the image.
+Simple application for uploading a picture to the cloud and parse the output of the analysis of the image. <br />
 WCF webservices https://github.com/lajmiamine/WeatherStationWCF <br />
 https://drive.google.com/open?id=1e_YoWmnxZpSeRY1ltppoa4MMQ3Ct6QSA
 SQL server database  <br/>
